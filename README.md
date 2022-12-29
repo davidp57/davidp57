@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @davidp57
-- 👀 I’m interested in flight simulation, namely Digital Combat Simulator (DCS) World by Eagle Dynamics, which I fly with [VEAF](http://veaf.org)
+- 👋 Hi, I’m David, a.k.a. "Zip", with the [VEAF](http://veaf.org)
+- 👀 I’m interested in flight simulation, namely Digital Combat Simulator (DCS) World by Eagle Dynamics, which I fly with the VEAF virtual airwing.
 - 🌱 I’m currently learning a lot of things, specifically getting better in lua, NodeJS and Docker
 - 💞️ I’m looking to collaborate on DCS World scripts; I wrote a set of tools and scripts that can be found in the [VEAF repositories](https://github.com/VEAF), they need maintenance, cleaning and documentation!
 - 📫 How to reach me: on the VEAF Discord, or here on Github.
